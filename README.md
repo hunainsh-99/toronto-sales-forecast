@@ -69,7 +69,7 @@ End-to-end pipeline for forecasting Toronto retail-trade sales using StatsCan da
 ### Prerequisites
 * Python 3.10+  
 
-### Installation
+## Installation
 ```bash
 # clone
 git clone https://github.com/<your-user>/toronto-sales-forecast.git
