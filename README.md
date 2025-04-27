@@ -98,14 +98,14 @@ Prophet | 1 057 091 | 804 211
 LightGBM | 531 195 | 401 793
 LightGBM’s extra covariates (lags, rolling stats, seasonality) cut error by ~36 % versus ARIMA.
 
-💡 Business Insights
+### 💡 Business Insights
 Peak demand in Oct–Dec → stock up & extend staffing.
 
 Early-year lull → run promotions Jan-Mar to smooth revenue.
 
 Use rolling forecast updates monthly to adjust inventory in real time.
 
-🔭 Future Enhancements
+### 🔭 Future Enhancements
 Hyperparameter tuning (Optuna)
 
 SHAP explainability in dashboard
@@ -114,7 +114,7 @@ Docker image + GitHub Actions CI
 
 Extend to other NAICS categories
 
-MIT License
+### MIT License
 
 Copyright (c) 2025 HUNAIN SHEIKH
 
