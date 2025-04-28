@@ -11,6 +11,7 @@ An end-to-end forecasting pipeline for Toronto’s monthly retail-trade sales, b
 
 ## 📂 Project Structure
 
+```text
 toronto-sales-forecast/
 │
 ├── data/
@@ -33,9 +34,6 @@ toronto-sales-forecast/
 ├── README.md                   # ← you are here
 └── .gitignore
 
-End-to-end pipeline for forecasting Toronto retail-trade sales using StatsCan data, LightGBM, ARIMA & Prophet benchmarks, plus a Streamlit dashboard.
-
----
 
 ## 📊 Overview
 
