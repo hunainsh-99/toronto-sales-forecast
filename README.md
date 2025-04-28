@@ -9,7 +9,7 @@ An end-to-end forecasting pipeline for Toronto’s monthly retail-trade sales, b
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 toronto-sales-forecast/
@@ -35,7 +35,7 @@ toronto-sales-forecast/
 └── .gitignore
 
 
-## 📊 Overview
+##  Overview
 
 1. **Data Ingestion**  
    * Downloaded StatsCan table **20100056**  
@@ -62,7 +62,7 @@ toronto-sales-forecast/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 * Python 3.10+  
@@ -96,14 +96,14 @@ Prophet | 1 057 091 | 804 211
 LightGBM | 531 195 | 401 793
 LightGBM’s extra covariates (lags, rolling stats, seasonality) cut error by ~36 % versus ARIMA.
 
-## 💡 Business Insights
+##  Business Insights
 Peak demand in Oct–Dec → stock up & extend staffing.
 
 Early-year lull → run promotions Jan-Mar to smooth revenue.
 
 Use rolling forecast updates monthly to adjust inventory in real time.
 
-## 🔭 Future Enhancements
+##  Future Enhancements
 Hyperparameter tuning (Optuna)
 
 SHAP explainability in dashboard
